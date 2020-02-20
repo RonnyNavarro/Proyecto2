@@ -1,0 +1,121 @@
+body{
+    background-color: rgba(140, 220, 240, 0.904);
+}
+body h3{
+    text-align: right;
+    margin-right: 5%;
+    color: rgb(27, 141, 194);
+}
+
+body h3 a:hover{
+    color: rgb(122, 251, 255);
+    text-decoration: none;
+}
+
+.edificios{
+    color: rgb(0, 76, 148);
+    text-align: center;
+}
+
+.p1{
+    font-size: xx-large;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    color: rgb(0, 76, 148);
+    display: block;
+    background-color: rgb(66, 217, 255);
+}
+.r1{
+    color: rgb(0, 76, 148);
+    text-align: justify;
+    font-size: x-large;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.p2{
+    font-size: xx-large;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    color: rgb(0, 76, 148);
+    display: block;
+    background-color: rgb(66, 217, 255);
+}
+
+.r2{
+    margin-left: 10%;
+    margin-right: 10%;
+    color: rgb(0, 76, 148);
+    text-align: justify;
+    font-size: x-large;
+    
+}
+
+.r2i{
+    margin-left: 30%;
+}
+
+.p3{
+    font-size: xx-large;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    color: rgb(0, 76, 148);
+    display: block;
+    background-color: rgb(66, 217, 255);
+}
+
+.r3{
+    margin-left: 20%;
+    margin-right: 20%;
+    color: rgb(0, 76, 148);
+    text-align: justify;
+    font-size: x-large;
+    
+}
+
+.r3i{
+    margin-left: 30%;
+}
+
+.p4{
+    font-size: xx-large;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    color: rgb(0, 76, 148);
+    display: block;
+    background-color: rgb(66, 217, 255);
+}
+
+.r4{
+    margin-left: 20%;
+    margin-right: 20%;
+    color: rgb(0, 76, 148);
+    text-align: justify;
+    font-size: x-large;
+}
+
+.p5{
+    font-size: xx-large;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    color: rgb(0, 76, 148);
+    display: block;
+    background-color: rgb(66, 217, 255);
+}
+
+.r5{
+    margin-left: 20%;
+    margin-right: 20%;
+    color: rgb(0, 76, 148);
+    text-align: justify;
+    font-size: x-large;
+}
+
+.video{
+    text-align: center;
+}
